@@ -1,0 +1,4 @@
+jdbc.driver=com.mysql.jdbc.Driver
+jdbc.url=jdbc:mysql://www.icodedock.com:3306/cleaner?characterEncoding=utf8&useSSL=false
+jdbc.username=cleaner
+jdbc.password=cleaner
